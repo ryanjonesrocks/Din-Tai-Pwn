@@ -19,13 +19,13 @@
 
 Framework to help teach application security.
 
-## Vulnerabilities 
+## Vulnerabilities (To-do)
 
-** Cross Site Scripting
-** Command Injection
-** Path Traversal
-** LFI
-** RFI
+* Cross Site Scripting
+* Command Injection
+* Path Traversal
+* LFI
+* RFI
 
 ### Credz
 #### ASCII ART
