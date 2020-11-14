@@ -1,5 +1,5 @@
 # Din Tai Pwn
-
+```
    ____                                    ?~~bL
   z@~ b                                    |  `U,
  ]@[  |                                   ]'  z@'
@@ -15,14 +15,17 @@
          "~~@@@@@bz_    _a@@@@z___a@K
              "~-@@@@@@@@@@@@@@@@@@~"   jrd
                 `~~~-@~~-@@~~~~~'
-
+```
 
 Framework to help teach application security.
 
 ## Vulnerabilities 
 
-** Cross Site Scripting 
-** 
+** Cross Site Scripting
+** Command Injection
+** Path Traversal
+** LFI
+** RFI
 
 ### Credz
 #### ASCII ART
