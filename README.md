@@ -1,4 +1,4 @@
-# Din Tai Pwn
+# Din Tai Pwn 🥟
 ```
    ____                                    ?~~bL
   z@~ b                                    |  `U,
